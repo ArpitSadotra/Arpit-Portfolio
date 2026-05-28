@@ -1,7 +1,7 @@
 import ProjectSlider from "../components/ProjectSlider";
 import profile from "../assets/Profile2.png";
-import proj1 from "../assets/Proj1.png";  
-import proj2 from "../assets/Proj2.png";  
+import proj1 from "../assets/proj1.png";  
+import proj2 from "../assets/proj2.png";  
 
 function Projects() {
   const projects = [
