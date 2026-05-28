@@ -1,12 +1,12 @@
 import { useState, useEffect } from "react";
 
 // ✅ IMPORT TRAVEL IMAGES
-import travel1 from "../assets/images/travel/travel1.jpg";
-import travel2 from "../assets/images/travel/travel2.jpg";
-import travel3 from "../assets/images/travel/travel3.jpg";
-import travel4 from "../assets/images/travel/travel4.jpg";
-import travel5 from "../assets/images/travel/travel5.jpg";
-import travel6 from "../assets/images/travel/travel6.jpg";
+import travel1 from "../assets/images/travel/travel1.JPG";
+import travel2 from "../assets/images/travel/travel2.JPG";
+import travel3 from "../assets/images/travel/travel3.JPG";
+import travel4 from "../assets/images/travel/travel4.JPG";
+import travel5 from "../assets/images/travel/travel5.JPG";
+import travel6 from "../assets/images/travel/travel6.JPG";
 
 
 import family1 from "../assets/images/family/family1.jpeg";
