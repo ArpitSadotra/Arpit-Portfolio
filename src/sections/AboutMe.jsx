@@ -1,27 +1,27 @@
 import { useState, useEffect } from "react";
 
 // ✅ IMPORT TRAVEL IMAGES
-import travel1 from "../assets/images/travel/travel1.JPG";
-import travel2 from "../assets/images/travel/travel2.JPG";
-import travel3 from "../assets/images/travel/travel3.JPG";
-import travel4 from "../assets/images/travel/travel4.JPG";
-import travel5 from "../assets/images/travel/travel5.JPG";
-import travel6 from "../assets/images/travel/travel6.JPG";
+import travel1 from "../assets/images/travel/travel1.jpg";
+import travel2 from "../assets/images/travel/travel2.jpg";
+import travel3 from "../assets/images/travel/travel3.jpg";
+import travel4 from "../assets/images/travel/travel4.jpg";
+import travel5 from "../assets/images/travel/travel5.jpg";
+import travel6 from "../assets/images/travel/travel6.jpg";
 
 
-import family1 from "../assets/images/family/family1.JPEG";
-import family2 from "../assets/images/family/family2.JPEG";
-import family3 from "../assets/images/family/family3.JPEG";
-import family4 from "../assets/images/family/family4.JPEG";
+import family1 from "../assets/images/family/family1.jpeg";
+import family2 from "../assets/images/family/family2.jpeg";
+import family3 from "../assets/images/family/family3.jpeg";
+import family4 from "../assets/images/family/family4.jpeg";
 
-import hobby1 from "../assets/images/hobby/hobby1.JPG";
-import hobby2 from "../assets/images/hobby/hobby2.JPG";
-import hobby3 from "../assets/images/hobby/hobby3.JPG";
-import hobby4 from "../assets/images/hobby/hobby4.JPG"; 
+import hobby1 from "../assets/images/hobby/hobby1.jpg";
+import hobby2 from "../assets/images/hobby/hobby2.jpg";
+import hobby3 from "../assets/images/hobby/hobby3.jpg";
+import hobby4 from "../assets/images/hobby/hobby4.jpg"; 
 
-import ach1 from "../assets/images/ach/ach1.JPG";
-import ach2 from "../assets/images/ach/ach2.JPG";
-import ach3 from "../assets/images/ach/ach3.JPG";
+import ach1 from "../assets/images/ach/ach1.jpg";
+import ach2 from "../assets/images/ach/ach2.jpg";
+import ach3 from "../assets/images/ach/ach3.jpg";
 
 
 
